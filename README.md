@@ -2,6 +2,6 @@
 
 Project provides an overview of the product development process 
 
-![image](ProductDevelopmentProcesses)
+![image](ProductDevelopmentProcesses.jpg)
 
 Additional details reference
