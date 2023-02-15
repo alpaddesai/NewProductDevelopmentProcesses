@@ -2,7 +2,7 @@
 
 Project provides an overview of the product development process 
 
-![image](ProductDevelopmentProcesses.jpg)
+![image](TPM.png)
 
 ![image](Ethics.jpg)
 
