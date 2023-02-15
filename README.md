@@ -8,4 +8,4 @@ Project provides an overview of the product development process
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement
+Additional details reference https://github.com/alpaddesai/SoftwareEngineering
